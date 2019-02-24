@@ -12,4 +12,5 @@ Nous avons testé plusieurs modèles : Siamese Network basique, Siamese Network 
 Par ailleurs, nous avons aussi testé un nouveau modèle se basant sur la FM et la WRAP loss puis nous avons fait une sorte de modèle hybride. Ces implémentations sont dans le notebook Third Environment 1.2 
 
 2. Création d'une API:
+
 L'API est fonctionnel en exécutant la commande docker-compe up --build . Si jamais il y a un souci, nous avons quand m^mee mis un notebook permettant de tester l'API et les deux méthodes implémentées
